@@ -1,0 +1,6 @@
+pandas
+matplotlib
+yfinance
+bcb
+statsmodels
+scikit-learn
